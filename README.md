@@ -20,4 +20,4 @@ Final-year Computer Science student at the **University of Leicester**, looking 
 
 `Java` `Python` `TypeScript` `SQL` `Spring Boot` `Spring Security` `JPA/Hibernate` `React` `Android` `Git`
 
-📫 LinkedIn coming soon · kylekfc246@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/kylecarr-dev) · kylekfc246@gmail.com
