@@ -13,7 +13,7 @@ Final-year Computer Science student at the **University of Leicester**, looking 
 | --- | --- | --- |
 | AI Stock Management System *(in progress)* | Final year project: AI decision support for retail inventory | Python, ML |
 | Secure REST API + Android App *(coming soon)* | Group project: secured REST backend with an Android client | Java, Spring Boot, Spring Security, MySQL, Android |
-| Gamified Learning Platform *(coming soon)* | Group project: courses, XP, leaderboard; I built goals & achievements | Java, Spring Boot, JSP, MySQL |
+| [Gamified Learning Platform](https://github.com/KyleCarr-Dev/gamified-learning-platform) | Group project for IBM SkillsBuild: XP, streaks, leaderboards; I was Scrum Master and built the achievements system and most of the goal tracker | Java, Spring Boot, JSP, MySQL |
 | [Panda Budget](https://github.com/KyleCarr-Dev/panda-budget) · [live](https://panda-budget.netlify.app) | Mobile-first weekly budgeting app with savings rollover and stats (built with an AI assistant) | React, TypeScript, Vite, Tailwind |
 
 ### Tech
